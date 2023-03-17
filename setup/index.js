@@ -241,7 +241,6 @@ fetch('data.json')
         } else {
           settingsPanel.style.display = 'block';
         }
-
       })
     }
     togglePanel();
